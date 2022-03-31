@@ -18,6 +18,7 @@ header{
 }
 
 .Todolist{
+    display: inline-block;
     background: #64b0a7;
     border: 20px #64b0a7;
      padding: 166px;
@@ -30,5 +31,12 @@ header{
 }
 
 .picture{
+    position: relative;
+    top: 250px;
+    right: 630px;
     
+}
+
+.container{
+    display: flex;
 }
